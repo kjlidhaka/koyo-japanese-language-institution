@@ -1,0 +1,52 @@
+/*responsive css*/
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .why-japan{
+        padding-top: 40px;
+    }
+    .study-area{
+        padding-top: 40px;
+    }
+    .services-provide{
+        padding-top: 40px;
+    }
+    .banner1{
+        padding: 15px 0px;
+    }
+    .banner1 .content h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .banner1 .content h5 {
+        font-size: 16px;
+        line-height: 10px;
+    }
+    .why-japan-pic {
+        order: 1;
+    }
+    .why-japan{
+        order: 2;
+    }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    .why-japan-pic {
+      
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .why-japan-pic {
+    }
+}
